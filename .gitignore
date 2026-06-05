@@ -1,0 +1,25 @@
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.gradle/
+build/
+app/build/
+captures/
+local.properties
+.externalNativeBuild
+.cxx
+cmake-build-debug/
+cmake-build-release/
+.DS_Store
+
+# Kotlin
+.kotlin/
+
+# Secrets
+*.jks
+*.keystore
+google-services.json
+
+# User specific
+.navigation/
+asset-search-index.json
