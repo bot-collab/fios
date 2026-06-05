@@ -5,7 +5,7 @@
 [![Architecture](https://img.shields.io/badge/Architecture-Clean%20%2B%20MVVM-blue.svg)]()
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)]()
 
-**FIOS** es un Sistema Operativo Financiero Personal diseñado para transformar la aburrida tarea de registrar gastos en una experiencia de gestión de infraestructura de alto nivel. Inspirado en terminales Linux, dashboards DevOps y herramientas de productividad modernas.
+**FIOS** es un Sistema de Gestión Financiero Personal diseñado para transformar la aburrida tarea de registrar gastos en una experiencia de gestión de infraestructura de alto nivel. Inspirado en terminales Linux, dashboards DevOps y herramientas de productividad modernas.
 
 ---
 
