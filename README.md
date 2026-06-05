@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="fios_logo.png" width="250" alt="FIOS Logo">
+</p>
+
 # FIOS - Financial Input Output System 📟⚡️
 
 [![Platform](https://img.shields.io/badge/Platform-Android-green.svg)]()
